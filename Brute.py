@@ -1,6 +1,7 @@
 from Profeta import Profeta
 from Desterrado import Desterrado
 
+
 class Brute(Profeta,Desterrado):
     def __init__(self):
         Profeta.__init__(self)

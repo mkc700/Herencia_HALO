@@ -14,10 +14,11 @@ class Profeta(Covenant):
     def get_nombre_profeta(self):
         return self.__nombre_profeta
 
+
     def set_mision(self, mision):
         self.__mision = mision
 
-    def set_nivel_autoridad(self, nombre_profeta):
+    def set_nombre_profeta(self, nombre_profeta):
         self.__nombre_profeta = nombre_profeta
 
     # metodos de clase

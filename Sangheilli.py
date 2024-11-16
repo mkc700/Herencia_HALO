@@ -1,6 +1,6 @@
 from Profeta import Profeta
 
-class Sangheilli:
+class Sangheilli(Profeta):
     def __init__(self):
         Profeta.__init__(self)
         self.__numero_mandibulas = 0

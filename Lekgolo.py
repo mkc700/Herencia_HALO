@@ -1,5 +1,6 @@
 from Profeta import Profeta
-class Lekgolo:
+
+class Lekgolo(Profeta):
     def __init__(self):
         Profeta.__init__(self)
         self.__no_larvas = 0
@@ -20,4 +21,5 @@ class Lekgolo:
 
     def ataque_de_combustible(self):
         print("ataque de energia de combustible neon")
+
 
