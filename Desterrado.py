@@ -17,9 +17,8 @@ class Desterrado:
 
     #metodos de clase
 
-    def inspirar_tropas(self):
-        print("El peso del sacrificio nos conducirá a la perfección,"
-              " aunque el universo entero se ahogue en su desesperación.")
+    def robar_territorio(self):
+        print("se ha robado una cantidad x de territorios")
 
     def obtener_informacion_covenant(self):
         print("se han develado informacion importante para derrocar a uno de los profetas")

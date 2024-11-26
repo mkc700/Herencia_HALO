@@ -30,7 +30,7 @@ class Covenant:
     def activar_anillo(self):
         print("se activo un anillo")
 
-    def organizar_tropas(self):
+    def crear_naves(self):
         print("se mandan tropas a un planeta")
 
     def evangelizar_especies(self):

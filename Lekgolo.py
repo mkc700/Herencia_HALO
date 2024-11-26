@@ -16,7 +16,7 @@ class Lekgolo(Profeta):
 
     #metodos de clases
 
-    def activa_formacion_defensiva(self):
+    def activa_formacion_oruga(self):
         print("* se inclina ligeramente para proteger sus organos vitales")
 
     def ataque_de_combustible(self):

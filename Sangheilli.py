@@ -14,10 +14,8 @@ class Sangheilli(Profeta):
         return self.__numero_mandibulas
 
     #metodos de clase
-
-    def combate_cuerpo_a_cuerpo(self):
-        print("* golpe a puñetazo limpio ")
     def chillido(self):
         print("wort wort wort")
     def escudo_energetico(self):
         print("energia proyectada de manera corporal")
+

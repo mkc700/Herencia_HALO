@@ -1,5 +1,5 @@
 from GuardiaDeHonor import GuardiaDeHonor
-from Lekgolo import Lekgolo
+
 
 atriox = GuardiaDeHonor()
 
